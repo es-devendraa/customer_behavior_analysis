@@ -1,4 +1,7 @@
 # Customer Shopping Behavior Analysis
+<p align="center">
+  <img src="Screenshot%202026-10-14%20152918.png" alt="Customer Shopping Behavior Analysis Dashboard" width="100%">
+</p>
 
 An end-to-end data analytics project exploring customer purchasing
 patterns, product preferences, discounts, shipping choices, and
@@ -24,9 +27,7 @@ recommendations.
 -   [Future Improvements](#future-improvements)
 
 ## Project Overview
-<p align="center">
-  <img src="Screenshot%202026-10-14%20152918.png" alt="Customer Shopping Behavior Analysis Dashboard" width="100%">
-</p>
+
 
 Retail businesses need to understand what influences customers'
 purchasing decisions and what encourages repeat purchases. This project
