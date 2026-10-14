@@ -1,7 +1,3 @@
-# customer_behavior_analysis
-Data analysis on customer shopping pattern using python, sql, powerbi.
-
-
 # Customer Shopping Behavior Analysis
 
 An end-to-end data analytics project exploring customer purchasing
@@ -28,6 +24,9 @@ recommendations.
 -   [Future Improvements](#future-improvements)
 
 ## Project Overview
+<p align="center">
+  <img src="Screenshot%202026-10-14%20152918.png" alt="Customer Shopping Behavior Analysis Dashboard" width="100%">
+</p>
 
 Retail businesses need to understand what influences customers'
 purchasing decisions and what encourages repeat purchases. This project
